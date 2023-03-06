@@ -1,0 +1,7 @@
+{
+	"services": {
+		"/a/": "request_a",
+		"/b/": "request_b",
+		"/c/": "request_c"
+	}
+}
